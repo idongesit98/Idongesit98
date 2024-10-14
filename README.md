@@ -10,7 +10,7 @@ I'm a passionate Software Developer with a strong focus on Native Mobile and Bac
 - 🌱 Tech Stack: I am proficient in Kotlin, JavaScript, and C#.
 - 😊 Collaboration: Open to working on open source projects, participating in hackathons, and available for internships or entry-level opportunities.
 - 💼 Career Interests: Looking for roles as a Software Engineer, Mobile Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 Reach Out: You check out my [view my resume](#) and contact me by emailing robsonidongesitsamuel@gmail.com.
+- 📫 Reach Out: [Check out my Resume](#) or drop me a line at robsonidongesitsamuel@gmail.com.
 
 ---
 
