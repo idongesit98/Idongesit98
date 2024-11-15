@@ -7,7 +7,7 @@ I'm a passionate Software Developer with a strong focus on Native Mobile and Bac
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: Currently enrolled at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Karatu Class of 2024.
-- 🌱 Tech Stack: I am proficient in Kotlin, JavaScript, and C#.
+- 🌱 Tech Stack: I am proficient in Kotlin, JavaScript, and a bit of C#.
 - 😊 Collaboration: Open to working on open source projects, participating in hackathons, and available for internships or entry-level opportunities.
 - 💼 Career Interests: Looking for roles as a Software Engineer, Mobile Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 Reach Out: [Check out my Resume](#) or drop me a line at robsonidongesitsamuel@gmail.com.
